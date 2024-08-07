@@ -1,0 +1,7 @@
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\bin\Debug\SeqFibonacci.exe.config
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\bin\Debug\SeqFibonacci.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\bin\Debug\SeqFibonacci.pdb
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\obj\Debug\SeqFibonacci.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\obj\Debug\SeqFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\obj\Debug\SeqFibonacci.exe
+C:\Users\Matheus\Documents\Cursos\Udemy\C# Completo e Profissional\SeqFibonacci\SeqFibonacci\obj\Debug\SeqFibonacci.pdb
